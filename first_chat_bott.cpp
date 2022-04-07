@@ -10,7 +10,7 @@ int main(){
         else if(a=="not good"){
             cout<<"felt bad for you but imma machine can't help you"<<endl;
         }
-        else if(a=="filling sick"){
+        else if(a=="feeling sick"){
             cout<<"you must vist to doctor"<<endl;
         }
         else if(a=="hungry"){
