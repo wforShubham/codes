@@ -27,6 +27,7 @@ int main()
     }
     else if (a == "shubham bkl" || "bkl is shubham")
         cout << "chup bkl, tu bkl";
+    cout << "youhohohoho";
 
     return 0;
 }
